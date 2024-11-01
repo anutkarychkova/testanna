@@ -1,3 +1,3 @@
 # testanna
 
-my repo
+my repository
